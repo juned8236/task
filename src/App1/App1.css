@@ -1,0 +1,18 @@
+.gutter-example .ant-row > div {
+    background: transparent;
+    border: 0;
+    text-align: center;
+  }
+  
+  .gutter-box {
+    background: #00a0e9;
+    padding: 10px 0;
+    border-radius: 0.25rem;
+  }
+
+  
+  .app-1{
+      margin-left: 10%;
+      margin-right: 10%;
+      margin-top:3%;
+  }
