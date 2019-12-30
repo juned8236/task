@@ -7,7 +7,7 @@ function template() {
 
   return (
     <div className="input-1">
-          <input id={id} value={val} type={type} placeholder={placeholder} style={{ marginLeft:'20px',width:'20%'}}className="form-control" onChange={this.fnChange.bind(this)} />
+          <input id={id} value={val} type={type} placeholder={placeholder} style={{ marginLeft:'21px',width:'20%'}}className="form-control" onChange={this.fnChange.bind(this)} />
 
     </div>
   );
