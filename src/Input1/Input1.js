@@ -1,7 +1,7 @@
 import React    from "react";
-import template from "./Input.jsx";
+import template from "./Input1.jsx";
 
-class Input extends React.Component {
+class Input1 extends React.Component {
   render() {
     return template.call(this);
   }
@@ -11,7 +11,7 @@ class Input extends React.Component {
     this.props.fnPrepareData(id,value);
 
 
-  }    
+  }
 }
 
-export default Input;
+export default Input1;

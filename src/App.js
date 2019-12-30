@@ -1,11 +1,10 @@
 import React from 'react';
-import App1 from './App1/index';
+import Accordion from "./Accordion/index";
 
 class App extends React.Component {
-
     render() {
         return <div>
-            <App1 />          
+            <Accordion />
         </div>
     }
 }
